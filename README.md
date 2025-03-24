@@ -22,6 +22,17 @@ Welcome to my data science portfolio! This repository showcases some of the proj
 
 ---
 
+## Trouble Viewing Interactive Plots?
+
+Some **Plotly** visualizations may not display properly on GitHub.  
+To view the notebooks with full interactivity, especially for Plotly charts, open them in **[nbviewer.org](https://nbviewer.org/)**:
+
+1. Go to [https://nbviewer.org](https://nbviewer.org)
+2. Paste the GitHub URL of the notebook (e.g. `https://github.com/yourusername/yourrepo/blob/main/your_notebook.ipynb`)
+3. Click "Go"
+
+---
+
 ## About
 
 Each notebook represents a different stage in my data science learning journey—from structured classification tasks to hands-on experience with real-world messy data. These projects were completed as part of my self-guided learning and portfolio development, and I’ve written accompanying Medium articles to document my process and reflect on key takeaways.
